@@ -3,4 +3,4 @@ commit_2_master
 commit_2_feature_2_feature_3
 feature_4
 feature_5
-bug fixed
+it's a bug~~~~~~~~~~~~~~~~~~~~! bug fixed
