@@ -1,2 +1,2 @@
 commit_1
-commit_2
+commit_2_feature_2
