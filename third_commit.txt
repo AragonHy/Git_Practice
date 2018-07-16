@@ -4,3 +4,4 @@ commit_2_feature_2_feature_3
 feature_4
 feature_5
 it's a bug~~~~~~~~~~~~~~~~~~~~! bug fixed
+commit_6
